@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rselby2024
-- 👀 I’m interested in ...data science | AI | machine learning
+- 👀 I’m interested in ...data science | AI | machine learning | blockchain
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...projects involving data analysis, blockchain, AI
+- 📫 How to reach me ... msg me on LinknIn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Dr. Who Fan
 
