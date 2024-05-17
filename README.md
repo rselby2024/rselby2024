@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...cloud engineering | project manager | data science | AI | machine learning | blockchain
 - 🌱 I’m currently learning ... Python, Terraform, Google Cloud Engineering
 - 💞️ I’m looking to collaborate on ...projects involving data analysis, blockchain, AI
-- 📫 How to reach me ... msg me on LinknIn
+- 📫 How to reach me ... msg me on LinkedIn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Dr. Who Fan
 
