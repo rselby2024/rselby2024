@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... msg me on LinkedIn
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...Dr. Who Fan
+- ⚡ Fun fact: ...Dr. Who Fan (4th Doctor, Tom Baker)
 
 <!---
 rselby2024/rselby2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
